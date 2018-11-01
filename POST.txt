@@ -1,0 +1,28 @@
+   
+   // POST Til et nyt bud på en mønt OPG 6 - opg b
+            //Console.WriteLine("Create Customer");
+            //var isCreated = CreateCoinBid(new CoinBid(1, "Gold DK 9990", 9900, "Mik"));
+            //Console.WriteLine("was created " + isCreated);
+            //cList = GetBids();
+            //Console.WriteLine(cList.Last());
+
+
+
+        //private bool CreateCoinBid(CoinBid coinbid)
+        //{
+        //    using (HttpClient client = new HttpClient())
+        //    {
+        //        string jsonStr = JsonConvert.SerializeObject(coinbid);
+        //        StringContent content = new StringContent(jsonStr, Encoding.UTF8, "application/json");
+
+        //        HttpResponseMessage response = client.PostAsync(CustomerURI, content).Result;
+        //        if (response.IsSuccessStatusCode)
+        //        {
+        //            string resultStr = response.Content.ReadAsStringAsync().Result;
+        //            bool result = JsonConvert.DeserializeObject<bool>(resultStr);
+        //            return result;
+        //        }
+        //        return false;
+
+        //    }
+        //}
